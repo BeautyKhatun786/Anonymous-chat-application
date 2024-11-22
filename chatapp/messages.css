@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: rgb(238, 237, 235);
+    color: black
+}
+
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+h1{
+    width: 60%;
+    
+    margin-top: -5px; 
+    color: rgb(6, 5, 107);
+
+}
+
+/* thead {
+    background:  rgb(50, 47, 183);
+
+    color: white;
+} */
+
+th, td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+
+.color-box {
+    width: 50px;
+    height: 20px;
+    display: inline-block;
+}
